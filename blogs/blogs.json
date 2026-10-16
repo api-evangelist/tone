@@ -2,11 +2,18 @@
   "repo": "tone",
   "feeds": [
     {
-      "source": "https://tone.is/help-center/",
-      "feed_url": "https://tone.is/help-center/feed/",
+      "source": "https://tone.is/blog/",
+      "feed_url": "https://tone.is/blog/feed/",
       "title": "",
       "saved": 0,
       "method": "discovered"
+    },
+    {
+      "source": "https://tone.is/feed/",
+      "feed_url": "https://tone.is/feed/",
+      "title": "",
+      "saved": 0,
+      "method": "feed"
     },
     {
       "source": "https://tone.is/help-center/feed/",
@@ -17,5 +24,5 @@
     }
   ],
   "post_count": 0,
-  "fetched": "2026-10-03T12:30:02Z"
+  "fetched": "2026-10-10T13:15:00Z"
 }
